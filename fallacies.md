@@ -10,7 +10,6 @@ A straw man fallacy occurs when someone misrepresents an opponent's argument to 
 **Example:**  
 Person A: We should invest more in public transportation.  
 Person B: My opponent wants to take away everyone's cars.
-# Logical Fallacies
 
 **My Analysis:**  
 Person A merely expressed their opinion about increasing investment in public transportation.  
